@@ -56,7 +56,7 @@ A comunicação entre frontend e backend é realizada por meio de API RESTful.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/JoabioVilela/blog-e-rede-social-sigital.git
+   git clone git@github.com:JoabioVilela/blog-e-rede-social-digital.git
 
 2. Navegue até a raiz do projeto:
 	```bash
