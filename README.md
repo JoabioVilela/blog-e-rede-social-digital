@@ -62,7 +62,7 @@ A comunicação entre frontend e backend é realizada por meio de API RESTful.
 	```bash
     cd blog-e-rede-social-digital
     
-3. Suba os contêineres Docker:
+3. Inicialize os contêineres Docker:
 	```bash
     docker compose up -d --build
 
